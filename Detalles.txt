@@ -1,0 +1,3 @@
+en la parte de buscar solo lo habilite para que busque por el nombre del plato y el precio 
+por las demas caracteristicas no, pero si me solicita puedo meter todos igual, gracias 
+buenas noches :)
